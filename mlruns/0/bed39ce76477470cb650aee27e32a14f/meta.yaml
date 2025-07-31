@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bed39ce76477470cb650aee27e32a14f/artifacts
+end_time: 1753946774920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bed39ce76477470cb650aee27e32a14f
+run_name: sneaky-kite-647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753946774821
+status: 3
+tags: []
+user_id: DG929MT

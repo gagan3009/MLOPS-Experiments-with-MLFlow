@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/af1ae939ca1d4c6495a21ec71546ec91/artifacts
+end_time: 1753952030426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af1ae939ca1d4c6495a21ec71546ec91
+run_name: masked-colt-146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753952029842
+status: 3
+tags: []
+user_id: DG929MT

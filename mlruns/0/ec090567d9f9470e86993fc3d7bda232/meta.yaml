@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ec090567d9f9470e86993fc3d7bda232/artifacts
+end_time: 1753947351509
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec090567d9f9470e86993fc3d7bda232
+run_name: marvelous-stag-998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753947351418
+status: 3
+tags: []
+user_id: DG929MT

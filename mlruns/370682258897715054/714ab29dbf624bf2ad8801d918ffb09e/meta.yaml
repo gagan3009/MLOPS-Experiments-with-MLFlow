@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/370682258897715054/714ab29dbf624bf2ad8801d918ffb09e/artifacts
+end_time: 1753952967021
+entry_point_name: ''
+experiment_id: '370682258897715054'
+lifecycle_stage: active
+run_id: 714ab29dbf624bf2ad8801d918ffb09e
+run_name: gaudy-shrew-753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753952953761
+status: 3
+tags: []
+user_id: DG929MT

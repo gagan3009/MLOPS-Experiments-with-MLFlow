@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ad833530368e46d0af0cb71b09e9109b/artifacts
+end_time: 1753947391781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad833530368e46d0af0cb71b09e9109b
+run_name: treasured-roo-373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753947391717
+status: 3
+tags: []
+user_id: DG929MT

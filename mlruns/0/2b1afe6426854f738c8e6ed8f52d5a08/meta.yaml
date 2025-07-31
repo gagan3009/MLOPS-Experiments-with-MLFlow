@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2b1afe6426854f738c8e6ed8f52d5a08/artifacts
+end_time: 1753948361851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b1afe6426854f738c8e6ed8f52d5a08
+run_name: agreeable-ape-111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753948361288
+status: 3
+tags: []
+user_id: DG929MT
